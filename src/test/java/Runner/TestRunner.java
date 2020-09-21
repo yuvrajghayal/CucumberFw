@@ -7,15 +7,15 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features="classpath:features",//to tell cucumber where is ur feature file
-        glue="StepDefs.StepDefs", // to tell cucumber where is ur step def code
-        tags="", // to tell which tagged feature file to execute
-        plugin = {"pretty", // to generate reports
+		features="classpath:features",
+        glue="StepDefs.StepDefs", 
+        tags="", 
+        plugin = {"pretty",
             "html:target/html/htmlreport.html",
             "json:target/json/file.json",
             },
         publish=true,
-        dryRun=false // to tell whether to test run(true) or actual run(false)
+        dryRun=false 
         )
 public class TestRunner {
 

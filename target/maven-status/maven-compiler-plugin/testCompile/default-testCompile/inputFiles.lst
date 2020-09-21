@@ -1,2 +1,8 @@
 E:\eclipse\Cucumber-Sele-Fw\src\test\java\StepDefs\StepDefs.java
+E:\eclipse\Cucumber-Sele-Fw\src\test\java\BaseCore\WebDriverFactory.java
+E:\eclipse\Cucumber-Sele-Fw\src\test\java\PageObject\SearchPageObject.java
+E:\eclipse\Cucumber-Sele-Fw\src\test\java\PageObject\ComnPageObject.java
+E:\eclipse\Cucumber-Sele-Fw\src\test\java\PageObject\ProductDetailsPageObject.java
+E:\eclipse\Cucumber-Sele-Fw\src\test\java\PageObject\SigninPageObject.java
 E:\eclipse\Cucumber-Sele-Fw\src\test\java\Runner\TestRunner.java
+E:\eclipse\Cucumber-Sele-Fw\src\test\java\PageObject\HomePageObject.java
